@@ -1,1 +1,10 @@
-.ipynb_checkpoints/*
+.ipynb_checkpoints
+cehckpoint
+log
+datasets
+MNIST
+BSDS300
+result
+__pycache__
+checkpoint
+.vscode
